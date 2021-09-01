@@ -27,7 +27,8 @@ int main(){
     tempo_de_servico(n, ano, sal);
 
     printf("%c, %d, %d", &n, ano, sal);
-
+    
+    system("PAUSE");
     return 0;
 
 }
